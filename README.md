@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Warehousing, Airflow**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://chughjasneek.medium.com/)
 
 - 💬 Ask me about **ETL and Data Analytics**
 
