@@ -15,6 +15,7 @@ I am currently in my 3rd semester of myMasters degree in Data Science at New Jer
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+Checkout my latest blogs at [Medium](https://chughjasneek.medium.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
