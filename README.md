@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Jasneek</h1>
-I am currently in my 3rd semester of my **Masters in Data Science degree** at **New Jersey Institute of Technology**. I have 1.5 years of experience in the field of data analytics which has strengthened my skill set ranging from Python, Alteryx, SQL, Machine Learning to Data Visualisation and Optimisation tools. 
+<h1 align="left">Hello 👋, I'm Jasneek</h1>
+I am currently in my 3rd semester of my **Masters degree in Data Science** at **New Jersey Institute of Technology**. I have 1.5 years of experience in the field of data analytics which has strengthened my skill set ranging from Python, Alteryx, SQL, Machine Learning to Data Visualisation and Optimisation tools. 
 At Case Medical, I am exposing myself to the role of a **Full-stack data scientist**.
 
 
