@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Jasneek</h1>
-<p align="center">I am currently in my 3rd semester of my Masters in Data Science degree at New Jersey Institute of Technology, holding a 3.92 GPA. I have 1.5 years of experience in the field of data analytics which has strengthened my skill set ranging from Python, Alteryx, SQL, Machine Learning to Data Visualisation and Optimisation tools. At case Medical I am exposing myself to the role of a Full-stack data scientist</p>
+I am currently in my 3rd semester of my **Masters in Data Science degree** at **New Jersey Institute of Technology**. I have 1.5 years of experience in the field of data analytics which has strengthened my skill set ranging from Python, Alteryx, SQL, Machine Learning to Data Visualisation and Optimisation tools. 
+At Case Medical, I am exposing myself to the role of a **Full-stack data scientist**.
 
 
 - 🌱 I’m currently learning **Data Warehousing, Airflow**
