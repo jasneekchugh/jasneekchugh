@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jasneek</h1>
-<h3 align="center">Masters in Data Science Student at New Jersey Institute of Technology.</h3>
+<h1 align="center">Hello 👋, I'm Jasneek</h1>
+<h3 align="center">Data Analyst Co-op at Case Medical |MS in Data Science Student at New Jersey Institute of Technology.</h3>
 
 <p align="left"> <a href="https://twitter.com/jasneek_chugh" target="blank"><img src="https://img.shields.io/twitter/follow/jasneek_chugh?logo=twitter&style=for-the-badge" alt="jasneek_chugh" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chughjasneek@gmail.com**
 
-- ⚡ Fun fact **I make fairly good cocktails**
+- ⚡ Fun fact **I make fairly good cocktails 🍸 **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
