@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jasneek</h1>
-<h3 align="center">Data Analyst Co-op at Case Medical |MS in Data Science Student at New Jersey Institute of Technology.</h3>
+<h3 align="center"> I am currently in my 3rd semester of my Masters in Data Science degree at New Jersey Institute of Technology, holding a 3.92 GPA. I have 1.5 years of experience in the field of data analytics which has strengthened my skill set ranging from Python, Alteryx, SQL, Machine Learning to Data Visualisation and Optimisation tools. At case Medical I am exposing myself to the role of a Full-stack data scientist</h3>
 
 <p align="left"> <a href="https://twitter.com/jasneek_chugh" target="blank"><img src="https://img.shields.io/twitter/follow/jasneek_chugh?logo=twitter&style=for-the-badge" alt="jasneek_chugh" /></a> </p>
 
