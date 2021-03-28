@@ -10,7 +10,7 @@ I am currently in my 3rd semester of myMasters degree in Data Science at New Jer
 
 - 📫 How to reach me **chughjasneek@gmail.com**
 
-- ⚡ Fun fact **I make fairly good cocktails 🍸 **
+- ⚡ Fun fact **I make fairly good cocktails** 🍸
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
