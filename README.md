@@ -2,7 +2,7 @@
 I am currently in my 3rd semester of myMasters degree in Data Science at New Jersey Institute of Technology. I have 1.5 years of experience in the field of data analytics which has strengthened my skill set ranging from Python, Alteryx, SQL, Machine Learning to Data Visualisation and Optimisation tools. During my Co-op at Case Medical, I am exposing myself to the role of a Full-stack data scientist.
 
 
-- 🌱 I’m currently learning **Data Warehousing**
+- 🌱 I’m currently learning **Web System Development**
 
 - 📝 I regularly write articles on [Medium](https://chughjasneek.medium.com/)
 
