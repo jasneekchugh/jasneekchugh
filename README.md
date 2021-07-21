@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Jasneek</h1>
-I am currently in my 3rd semester of myMasters degree in Data Science at New Jersey Institute of Technology. I have 1.5 years of experience in the field of data analytics which has strengthened my skill set ranging from Python, Alteryx, SQL, Machine Learning to Data Visualisation and Optimisation tools. During my Co-op at Case Medical, I am exposing myself to the role of a Full-stack data scientist.
+I am currently in my final semester of myMasters degree in Data Science at New Jersey Institute of Technology. I have 2+ years of experience in the field of data analytics which has strengthened my skill set ranging from Python, SAS, Alteryx, SQL, Machine Learning to Data Visualisation and Optimisation tools. Currently i am a Data Analyst Intern at Epsilon. Previously i have done my co-op as a data scientist intern at Case Medical, NJ.
 
 
 - 🌱 I’m currently learning **Web System Development**
