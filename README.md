@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Jasneek</h1>
-I am a Masters degree graduate in Data Science from New Jersey Institute of Technology. I have 2+ years of experience in the field of data analytics which has strengthened my skill set ranging from Python, SAS, Alteryx, SQL, Machine Learning to Data Visualisation and Optimisation tools. Currently i am a Data Analyst Intern at Epsilon. Previously i have done my co-op as a data scientist intern at Case Medical, NJ.
+I am a master's degree graduate in Data Science from the New Jersey Institute of Technology. I have 3+ years of experience in the field of data science and analytics, which has strengthened my skill set, ranging from Python, SAS, Alteryx, SQL, and Machine Learning to Data Visualisation and Optimisation tools. Currently, I am a Data Scientist at Epsilon.
 
 
 - 🌱 I’m currently learning **Web System Development**
@@ -10,7 +10,7 @@ I am a Masters degree graduate in Data Science from New Jersey Institute of Tech
 
 - 📫 How to reach me **chughjasneek@gmail.com**
 
-- ⚡ Fun fact **I make fairly good cocktails** 🍸
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
