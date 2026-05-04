@@ -13,11 +13,13 @@ I specialize in bridging technical execution with business storytelling—transl
 At Epsilon, I work on end-to-end analytics initiatives supporting client marketing strategies and customer growth objectives.
 
 ## Tech Stack
-**Languages:** Python, SQL, SAS, R  
+**Languages:** Python, SQL, SAS, PySpark, R  
 **Analytics:** Predictive Modeling, Segmentation, A/B Testing, Forecasting  
 **Visualization:** Tableau, Power BI, Excel  
-**Cloud & Data Platforms:** Snowflake, AWS, Git, Jupyter  
+**Data Engineering and Platforms:** Databricks, Snowflake, ETL Pipelines, dbt, Data Modeling
+**Tools and Cloud:** AWS, Alteryx, SSIS, Docker, Flask
 **Business Skills:** Storytelling, Executive Communication, Client Consulting, Strategy  
+**Certifications:** Tableau Desktop Specialist, AWS Cloud Practitioner, Alteryx Designer Core
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
