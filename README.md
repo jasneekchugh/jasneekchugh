@@ -1,39 +1,101 @@
-<h1 align="left">Hello 👋, I'm Jasneek</h1>
-I'm a Senior Data Science Analyst at Epsilon with 5+ years of experience helping Fortune 500 clients solve complex marketing and business problems through analytics, automation, and data-driven strategy. My work focuses on transforming large datasets into actionable insights that drive smarter decisions, stronger customer engagement, and measurable revenue growth.
+<h1 align="center">Hi 👋, I'm Jasneek Chugh</h1>
+<h3 align="center">Senior Data Science Analyst @ Epsilon | Analytics Strategist | Turning Data into Business Growth</h3>
 
-I specialize in bridging technical execution with business storytelling—translating analytics into clear recommendations for leadership and client stakeholders.
-
-- 📊 Data Scientist with experience across Automotive, Pharmaceutical, and Marketing domains  
-- 🚀 Delivered analytics solutions for enterprise clients and executive business reviews  
-- 📈 Passionate about customer intelligence, segmentation, and performance measurement  
-- 🤖 Interested in AI, machine learning, and process automation  
-- 🎯 Strong focus on business impact, strategy, and stakeholder communication  
-
-## Tech Stack
-
-- **Languages:** Python, SQL, SAS, PySpark, R  
-- **Analytics:** Predictive Modeling, Segmentation, A/B Testing, Forecasting  
-- **Visualization:** Tableau, Power BI, Excel  
-- **Data Engineering & Platforms:** Databricks, Snowflake, ETL Pipelines, dbt, Data Modeling  
-- **Tools & Cloud:** AWS, Alteryx, SSIS, Docker, Flask  
-- **Business Skills:** Storytelling, Executive Communication, Client Consulting, Strategy  
-- **Certifications:** Tableau Desktop Specialist, AWS Cloud Practitioner, Alteryx Designer Core  
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-Checkout my latest blogs at [Medium](https://chughjasneek.medium.com/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jasneek_chugh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jasneek_chugh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jasneekchugh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jasneekchugh" height="30" width="40" /></a>
-<a href="https://instagram.com/jasneekxchugh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jasneekxchugh" height="30" width="40" /></a>
-<a href="https://medium.com/@chughjasneek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chughjasneek" height="30" width="40" /></a>
-<a href="https://discord.gg/Jasneek#7134" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Jasneek#7134" height="30" width="40" /></a>
+<p align="center">
+Driven by curiosity, powered by data, focused on impact.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasneekchugh&show_icons=true&locale=en&layout=compact" alt="jasneekchugh" /></p>
+## 🚀 About Me
+
+I'm a **Senior Data Science Analyst at Epsilon** with **5+ years of experience** solving business problems through **data science, analytics, automation, and strategy**.
+
+I enjoy sitting at the intersection of **technical depth + business strategy** — where data science becomes action.
+
+- 📊 Experience across **Automotive, Pharmaceutical, and Marketing** industries  
+- 🚀 Delivered executive-facing analytics for enterprise clients  
+- 📈 Passionate about segmentation, personalization, and KPI measurement  
+- 🤖 Exploring AI, GenAI, and scalable automation solutions  
+- 🎯 Strong communicator focused on stakeholder influence and impact  
+- 🧠 Always learning, building, and improving  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Data
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=postgresql)
+![PySpark](https://img.shields.io/badge/PySpark-Advanced-orange?style=for-the-badge&logo=apachespark)
+![SAS](https://img.shields.io/badge/SAS-Advanced-blue?style=for-the-badge)
+![R](https://img.shields.io/badge/R-Working_Knowledge-blue?style=for-the-badge&logo=r)
+
+### 📊 Analytics & BI
+![Tableau](https://img.shields.io/badge/Tableau-Dashboarding-blue?style=for-the-badge&logo=tableau)
+![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoftexcel)
+
+### ☁️ Platforms & Engineering
+![Snowflake](https://img.shields.io/badge/Snowflake-Data_Warehouse-blue?style=for-the-badge&logo=snowflake)
+![Databricks](https://img.shields.io/badge/Databricks-Big_Data-red?style=for-the-badge&logo=databricks)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![dbt](https://img.shields.io/badge/dbt-Transformation-orange?style=for-the-badge&logo=dbt)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
+
+---
+
+## 📌 What I Do
+
+✔ Build customer 360 & segmentation frameworks  
+✔ Design executive dashboards & KPI reporting systems  
+✔ Automate repetitive workflows and improve efficiency  
+✔ Develop predictive models for growth opportunities  
+✔ Translate analytics into strategic recommendations  
+✔ Partner with business leaders to drive decisions  
+
+---
+
+## ✍️ Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+📚 Read more on **Medium**:  
+👉 https://chughjasneek.medium.com/
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/jasneekchugh" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+<a href="https://twitter.com/jasneek_chugh" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+<a href="https://instagram.com/jasneekxchugh" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+<a href="https://medium.com/@chughjasneek" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" height="45"/></a>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jasneekchugh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasneekchugh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## ⚡ Beyond Work
+
+- 🏃 Half Marathon Finisher  
+- ✈️ Love travel, growth, and new experiences  
+- 🍕 Pizza enthusiast  
+- 📚 Lifelong learner  
+
+---
+
+<p align="center">
+Thanks for stopping by 🙌  
+If data, AI, or analytics excites you — let's connect.
+</p>
