@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Jasneek</h1>
-I'm a Data Scientist at Epsilon with 5+ years of experience helping Fortune 500 clients solve complex marketing and business problems through analytics, automation, and data-driven strategy. My work focuses on transforming large datasets into actionable insights that drive smarter decisions, stronger customer engagement, and measurable revenue growth.
+I'm a Senior Data Science Analyst at Epsilon with 5+ years of experience helping Fortune 500 clients solve complex marketing and business problems through analytics, automation, and data-driven strategy. My work focuses on transforming large datasets into actionable insights that drive smarter decisions, stronger customer engagement, and measurable revenue growth.
 
 I specialize in bridging technical execution with business storytelling—translating analytics into clear recommendations for leadership and client stakeholders.
 
@@ -8,9 +8,6 @@ I specialize in bridging technical execution with business storytelling—transl
 - 📈 Passionate about customer intelligence, segmentation, and performance measurement  
 - 🤖 Interested in AI, machine learning, and process automation  
 - 🎯 Strong focus on business impact, strategy, and stakeholder communication  
-
-## Current Role @ Epsilon
-At Epsilon, I work on end-to-end analytics initiatives supporting client marketing strategies and customer growth objectives.
 
 ## Tech Stack
 **Languages:** Python, SQL, SAS, PySpark, R  
