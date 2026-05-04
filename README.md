@@ -10,13 +10,14 @@ I specialize in bridging technical execution with business storytelling—transl
 - 🎯 Strong focus on business impact, strategy, and stakeholder communication  
 
 ## Tech Stack
-**Languages:** Python, SQL, SAS, PySpark, R  
-**Analytics:** Predictive Modeling, Segmentation, A/B Testing, Forecasting  
-**Visualization:** Tableau, Power BI, Excel  
-**Data Engineering and Platforms:** Databricks, Snowflake, ETL Pipelines, dbt, Data Modeling
-**Tools and Cloud:** AWS, Alteryx, SSIS, Docker, Flask
-**Business Skills:** Storytelling, Executive Communication, Client Consulting, Strategy  
-**Certifications:** Tableau Desktop Specialist, AWS Cloud Practitioner, Alteryx Designer Core
+
+- **Languages:** Python, SQL, SAS, PySpark, R  
+- **Analytics:** Predictive Modeling, Segmentation, A/B Testing, Forecasting  
+- **Visualization:** Tableau, Power BI, Excel  
+- **Data Engineering & Platforms:** Databricks, Snowflake, ETL Pipelines, dbt, Data Modeling  
+- **Tools & Cloud:** AWS, Alteryx, SSIS, Docker, Flask  
+- **Business Skills:** Storytelling, Executive Communication, Client Consulting, Strategy  
+- **Certifications:** Tableau Desktop Specialist, AWS Cloud Practitioner, Alteryx Designer Core  
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
