@@ -1,16 +1,23 @@
 <h1 align="left">Hello 👋, I'm Jasneek</h1>
-I am a master's degree graduate in Data Science from the New Jersey Institute of Technology. I have 3+ years of experience in the field of data science and analytics, which has strengthened my skill set, ranging from Python, SAS, Alteryx, SQL, and Machine Learning to Data Visualisation and Optimisation tools. Currently, I am a Data Scientist at Epsilon.
+I'm a Data Scientist at Epsilon with 5+ years of experience helping Fortune 500 clients solve complex marketing and business problems through analytics, automation, and data-driven strategy. My work focuses on transforming large datasets into actionable insights that drive smarter decisions, stronger customer engagement, and measurable revenue growth.
 
+I specialize in bridging technical execution with business storytelling—translating analytics into clear recommendations for leadership and client stakeholders.
 
-- 🌱 I’m currently learning **Web System Development**
+- 📊 Data Scientist with experience across Automotive, Pharmaceutical, and Marketing domains  
+- 🚀 Delivered analytics solutions for enterprise clients and executive business reviews  
+- 📈 Passionate about customer intelligence, segmentation, and performance measurement  
+- 🤖 Interested in AI, machine learning, and process automation  
+- 🎯 Strong focus on business impact, strategy, and stakeholder communication  
 
-- 📝 I regularly write articles on [Medium](https://chughjasneek.medium.com/)
+## Current Role @ Epsilon
+At Epsilon, I work on end-to-end analytics initiatives supporting client marketing strategies and customer growth objectives.
 
-- 💬 Ask me about **ETL and Data Analytics**
-
-- 📫 How to reach me **chughjasneek@gmail.com**
-
-
+## Tech Stack
+**Languages:** Python, SQL, SAS, R  
+**Analytics:** Predictive Modeling, Segmentation, A/B Testing, Forecasting  
+**Visualization:** Tableau, Power BI, Excel  
+**Cloud & Data Platforms:** Snowflake, AWS, Git, Jupyter  
+**Business Skills:** Storytelling, Executive Communication, Client Consulting, Strategy  
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
